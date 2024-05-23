@@ -1,0 +1,10 @@
+../Core/Src/main.c:87:6:HAL_UART_RxHalfCpltCallback	2
+../Core/Src/main.c:95:6:uart_send	2
+../Core/Src/main.c:109:6:VS1003_init	11
+../Core/Src/main.c:187:6:SDI_Send	2
+../Core/Src/main.c:195:6:control_mp3	6
+../Core/Src/main.c:215:6:VS1003_WriteReg	2
+../Core/Src/main.c:237:10:VS1003_ReadReg	2
+../Core/Src/main.c:273:5:main	4
+../Core/Src/main.c:337:6:SystemClock_Config	3
+../Core/Src/main.c:387:6:Error_Handler	1
